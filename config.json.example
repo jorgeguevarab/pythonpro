@@ -1,0 +1,6 @@
+{
+    "server": "server name here",
+    "database": "data base name here",
+    "user": "user name here",
+    "password": "Check Environment Variable - var name: myAccessToken"
+}
