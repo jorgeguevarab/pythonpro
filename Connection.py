@@ -11,6 +11,3 @@ class Connection:
         self.username = username
         self.password = password
         self.database_name = database_name
-    
-    def connect(self):
-        pass
